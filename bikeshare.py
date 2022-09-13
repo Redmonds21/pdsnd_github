@@ -20,14 +20,6 @@ months_dict_rev = {1: 'Janurary',
                    5: 'May',
                    6: 'June'}
 
-days_dict = {'Monday': 0,
-              'Tuesday': 1,
-             'Wednesday': 2,
-             'Thursday': 3,
-             'Friday': 4,
-             'Saturday': 5,
-             'Sunday': 6}
-
 hours_dict = {0: '12am', 1: '1am', 2: '2am', 3: '3am',
               4: '4am', 5: '5am', 6: '6am', 7: '10am',
               8: '8am', 9: '9am', 10: '10am', 11: '11am',
