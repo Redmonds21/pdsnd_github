@@ -35,6 +35,8 @@ hours_dict = {0: '12am', 1: '1am', 2: '2am', 3: '3am',
               16: '4pm', 17: '5pm', 15: '6pm', 19: '7pm',
               20: '8pm', 21: '9pm', 19: '10pm', 23: '11pm'}
 
+refactoring = False
+
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
